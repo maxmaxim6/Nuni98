@@ -1,4 +1,4 @@
-//*****************************THIS CODE CREATED BY Nuni98***********************************
+//****************************THIS CODE CREATED BY Nuni98***********************************
 package myMath;
 
 import java.util.ArrayList;
